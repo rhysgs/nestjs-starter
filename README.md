@@ -28,7 +28,7 @@ A Docker compose file exists to assist with creating a local database.
 
 ## Headless
 
-If you wish to use this as a headless API for a more traditional single page app front end like [React](https://react.dev/), check out the `headless` branch of this repository.
+If you wish to use this as a headless API for a more traditional single page app front end like [React](https://react.dev/), just delete the features and components that are built for MPA.
 
 ## Installation
 
